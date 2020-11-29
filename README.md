@@ -23,7 +23,6 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=robsonpedroso.robsonpedroso)
 
-<br/>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=robsonpedroso&count_private=true&count_private=true&theme=react&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+<br/>[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=robsonpedroso&count_private=true&count_private=true&theme=react&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonpedroso&layout=compact&theme=react&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
